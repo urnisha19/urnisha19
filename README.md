@@ -1,4 +1,6 @@
-<img src="image/hello.gif"/>
+<img src="image/hello.gif" alt="hello"
+	title="hello" width="150" height="100"/>
+    
 ### Hi there I am Urnisha 👋
 
 ### I am a Web Developer👩‍💻 & sticking up on learning and developing  myself everyday 🎯 
