@@ -1,5 +1,5 @@
 <img src="image/hello.gif" alt="hello"
-	title="hello" width="60%" height="160" margin-left="20%" margin-right="20%"/>
+	title="hello" width="50%" height="160" marginLeft="25%" marginRight="25%"/>
 
 ### Hi there I am Urnisha 👋
 
