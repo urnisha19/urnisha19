@@ -2,7 +2,7 @@
 
 ## Hi there👋I am Urnisha!
 
-### 🎯 I am a Web Developer👩‍💻& sticking up on learning and developing myself everyday🌟!! 
+### 🎯 I am a Web Developer👩‍💻& sticking up learning and developing myself everyday🌟!! 
 
 * 👩‍🎓 Computer Science Engineering student.
 * 📌 Web Development meets up with my passion💙.
