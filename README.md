@@ -5,7 +5,6 @@
 ### 🎯 I am a Web Developer👩‍💻& sticking up learning and developing myself everyday🌟!! 
 
 * 👩‍🎓 Computer Science Engineering student.
-* 📌 Web Development meets up with my passion💙.
 * 🌱 Currently I'm learning brand new things from <a href="https://www.programming-hero.com/     ">Programming Hero</a>. 
 
 ### 💻🛠 Skills 
